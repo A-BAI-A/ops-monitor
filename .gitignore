@@ -1,0 +1,4 @@
+mysqld-exporter.cnf
+*.log
+__pycache__/
+*.pyc
