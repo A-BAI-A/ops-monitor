@@ -18,4 +18,4 @@ scrape_configs:
   - job_name: 'windows-vm'
     scheme: https
     static_configs:
-      - targets: ['win-metrics.lntu.tech']
+      - targets: ['YOUR_WINDOWS_METRICS_ENDPOINT']
